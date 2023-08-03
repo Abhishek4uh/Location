@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Location</string>
+    <string name="user_current_location_is_n">User Current Location</string>
+    <string name="start_location_tracking">Start Tracking</string>
+    <string name="start_verify">Start Verify</string>
+    <string name="reference_id">Reference id\nbb995a63455-033323c-sdkjfhjs481e-a7fe-13955d7dc\nsuffix</string>
+
+
+    <string name="permission_required">Location access is required to preview current location.</string>
+    <string name="ok">OK</string>
+
+    <string name="permission_granted">Location Permission is granted. You would use the camera now.</string>
+    <string name="request_permissions">Request Permissions</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>
